@@ -25,7 +25,7 @@ author:
   name             : "Tina Khezresmaeilzadeh"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at the University of Southern California"
-  location         : "Earth"
+  location         : #
   employer         : "University of Southern California"
   uri              : # URL
   email            : "khezresm@usc.edu" 
