@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Electrical Engineering at the University of Southern California, where I also completed my M.Sc. (GPA 4.0/4.0) in the direct Ph.D. program. I earned my B.Sc. in Electrical Engineering from Sharif University of Technology.
+I'm a Ph.D. student in Electrical Engineering at the University of Southern California, where I also completed my M.Sc. in the direct Ph.D. program. I earned my B.Sc. in Electrical Engineering from Sharif University of Technology.
 
 My research focuses on applied machine learning, generative AI, and multimodal foundation models for real-world systems. I am particularly interested in developing AI systems that integrate vision, language, and structured information to solve practical problems in networking, wireless platforms, autonomous systems, and intelligent decision-making.
 
