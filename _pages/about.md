@@ -12,3 +12,9 @@ I'm a Ph.D. student in Electrical Engineering at the University of Southern Cali
 My research focuses on machine learning for real-world applications and multimodal AI, including generative AI, vision-language models, and learning-based methods for wireless systems and networked platforms.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=8EhzPssAAAAJ&hl=en) or reach me at [khezresm@usc.edu](mailto:khezresm@usc.edu).
+
+Education
+======
+* Ph.D. in Electrical Engineering, University of Southern California (Aug 2022 – Present)
+* M.Sc. in Electrical Engineering, University of Southern California (Aug 2022 – May 2025)
+* B.Sc. in Electrical Engineering, Sharif University of Technology (Sep 2017 – Feb 2022)
