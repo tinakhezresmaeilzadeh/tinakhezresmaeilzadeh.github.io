@@ -11,14 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for category in site.publication_category %}
-  {% assign cat = category[0] %}
-  {% for post in site.publications reversed %}
-    {% if post.category == cat %}
-      {% if forloop.first %}
-        <h1>{{ category[1].title }}</h1>
-      {% endif %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
+{% assign ordered = site.publications | sort: "order" %}
+{% for post in ordered %}
+{% include archive-single.html %}
 {% endfor %}
