@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Electrical Engineering at the University of Southern California, where I also completed my M.Sc. in the direct Ph.D. program. I earned my B.Sc. in Electrical Engineering from Sharif University of Technology.
+I build AI systems that make sense of messy, real-world information.
 
-My research focuses on applied machine learning, generative AI, and multimodal foundation models for real-world systems. I am particularly interested in developing AI systems that integrate vision, language, and structured information to solve practical problems in networking, wireless platforms, autonomous systems, and intelligent decision-making.
+I'm a Ph.D. student in Electrical Engineering at the University of Southern California (USC), where I also earned my M.Sc. through the direct Ph.D. program after completing my B.Sc. at Sharif University of Technology. My research sits at the intersection of generative AI, multimodal learning, and foundation models. I'm particularly interested in systems that can reason across vision, language, and structured data, and in understanding how these models behave once they leave the comfort of benchmark leaderboards and encounter the complexity of the real world.
 
-My recent work spans multimodal reasoning, visual-language models, LLM-based systems, recommendation systems, and AI-driven optimization for large-scale networked environments. I am also interested in building trustworthy and efficient AI systems that can operate under real-world constraints.
+My work spans multimodal reasoning LLM-based systems, recommendation systems, autonomous platforms, and AI-driven optimization for large-scale wireless and networked environments. Across these seemingly different domains, the underlying question remains the same: how do we build intelligent systems that can make reliable decisions from incomplete, noisy, and imperfect information?
 
-I have conducted research at USC, Apple, Max Planck Institute for Informatics, and Technical University of Berlin.
+I've explored these questions with teams at USC, Apple, the Max Planck Institute for Informatics, and TU Berlin, moving between frontier AI research and the engineering reality of getting it to ship.
+
+I am particularly drawn to problems at the boundary between intelligence and utility: not just whether a model can solve a problem, but whether it can do so reliably, efficiently, and at scale.
+
+When I'm not training models or chasing bugs through thousands of lines of code, you'll usually find me at the gym, behind a camera looking for a good shot, or turning a simple coffee run into an excuse to explore a new corner of the city.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=8EhzPssAAAAJ&hl=en) or reach me at [khezresm@usc.edu](mailto:khezresm@usc.edu).
 
