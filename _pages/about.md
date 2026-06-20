@@ -9,7 +9,11 @@ redirect_from:
 
 I'm a Ph.D. student in Electrical Engineering at the University of Southern California, where I also completed my M.Sc. (GPA 4.0/4.0) in the direct Ph.D. program. I earned my B.Sc. in Electrical Engineering from Sharif University of Technology.
 
-My research focuses on machine learning for real-world applications and multimodal AI, including generative AI, vision-language models, and learning-based methods for wireless systems and networked platforms.
+My research focuses on applied machine learning, generative AI, and multimodal foundation models for real-world systems. I am particularly interested in developing AI systems that integrate vision, language, and structured information to solve practical problems in networking, wireless platforms, autonomous systems, and intelligent decision-making.
+
+My recent work spans multimodal reasoning, visual-language models, LLM-based systems, recommendation systems, and AI-driven optimization for large-scale networked environments. I am also interested in building trustworthy and efficient AI systems that can operate under real-world constraints.
+
+I have conducted research at USC, Apple, Max Planck Institute for Informatics, and Technical University of Berlin.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=8EhzPssAAAAJ&hl=en) or reach me at [khezresm@usc.edu](mailto:khezresm@usc.edu).
 
