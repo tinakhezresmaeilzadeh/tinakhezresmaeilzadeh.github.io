@@ -15,8 +15,6 @@ My work spans multimodal reasoning LLM-based systems, recommendation systems, au
 
 I've explored these questions with teams at USC, Apple, the Max Planck Institute for Informatics, and TU Berlin, moving between frontier AI research and the engineering reality of getting it to ship.
 
-I am particularly drawn to problems at the boundary between intelligence and utility: not just whether a model can solve a problem, but whether it can do so reliably, efficiently, and at scale.
-
 When I'm not training models or chasing bugs through thousands of lines of code, you'll usually find me at the gym, behind a camera looking for a good shot, or turning a simple coffee run into an excuse to explore a new corner of the city.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=8EhzPssAAAAJ&hl=en) or reach me at [khezresm@usc.edu](mailto:khezresm@usc.edu).
