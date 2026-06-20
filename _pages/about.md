@@ -13,8 +13,9 @@ My research focuses on machine learning for real-world applications and multimod
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=8EhzPssAAAAJ&hl=en) or reach me at [khezresm@usc.edu](mailto:khezresm@usc.edu).
 
+
 Education
 ======
-* Ph.D. in Electrical Engineering, University of Southern California (Aug 2022 – Present)
-* M.Sc. in Electrical Engineering, University of Southern California (Aug 2022 – May 2025)
-* B.Sc. in Electrical Engineering, Sharif University of Technology (Sep 2017 – Feb 2022)
+<img src="/images/usc-logo.png" alt="USC" style="height:32px !important; width:auto !important; vertical-align:middle; margin-right:10px;"> Ph.D. in Electrical Engineering, University of Southern California (Aug 2022 – Present)
+<img src="/images/usc-logo.png" alt="USC" style="height:32px !important; width:auto !important; vertical-align:middle; margin-right:10px;"> Ph.D. in Electrical Engineering, University of Southern California (Aug 2022 – May 2025)
+<img src="/images/sharif-logo.png" alt="Sharif University of Technology" style="height:32px !important; width:auto !important; vertical-align:middle; margin-right:10px;"> B.Sc. in Electrical Engineering, Sharif University of Technology (Sep 2017 – Feb 2022)
