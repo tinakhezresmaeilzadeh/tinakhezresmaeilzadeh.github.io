@@ -9,7 +9,7 @@ redirect_from:
 
 I build AI systems that make sense of messy, real-world information.
 
-I'm a Ph.D. student in Electrical Engineering at the University of Southern California (USC), where I also earned my M.Sc. through the direct Ph.D. program after completing my B.Sc. at Sharif University of Technology. My research sits at the intersection of generative AI, multimodal learning, and foundation models. I'm particularly interested in systems that can reason across vision, language, and structured data, and in understanding how these models behave once they leave the comfort of benchmark leaderboards and encounter the complexity of the real world.
+I'm a Ph.D. student in Electrical Engineering at the University of Southern California (USC), where I also earned my M.Sc. My research sits at the intersection of generative AI, multimodal learning, and foundation models. I'm particularly interested in systems that can reason across vision, language, and structured data, and in understanding how these models behave once they leave the comfort of benchmark leaderboards and encounter the complexity of the real world.
 
 My work spans multimodal reasoning LLM-based systems, recommendation systems, autonomous platforms, and AI-driven optimization for large-scale wireless and networked environments. Across these seemingly different domains, the underlying question remains the same: how do we build intelligent systems that can make reliable decisions from incomplete, noisy, and imperfect information?
 
